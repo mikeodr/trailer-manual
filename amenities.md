@@ -37,7 +37,7 @@ This page lists the amenities available in the trailer.
 - Toilet
 - Shower
 - Sink
-- [Fan](bathroom-fan.jpg)
+- [Fan](images/bathroom-fan.jpg)
   - Turn knob to open, press black button to toggle power
 - [Additional Bath and Shower Facilities](additional-bath-facilities.md)
 
