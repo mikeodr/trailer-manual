@@ -19,5 +19,6 @@ This page provides step-by-step instructions for opening and setting up the trai
 10. Lock the trailer
 11. Lock the passthrough on both sides
 12. Lock the outside Kitchen
+13. Lock the shed
 
 [Back to Home](index.md)

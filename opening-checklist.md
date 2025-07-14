@@ -15,7 +15,7 @@ This page provides step-by-step instructions for opening and setting up the trai
     - Note: Heating uses propane, use sparingly.
     - See [troubleshooting](troubleshooting.md) for any issues.
 7. [Turn on Water heater](images/water-heater-power.jpg)
-    - Ensure to turn on the Electric heater
+    - Ensure to turn on only the Electric heater
     - Do not turn on water pump or propane heater
 8. While the water heats up, leave the kitchen sink hot tap open at a small dribble for about one hour. This helps prevent leaks.
 9. Extend the awning. Control located against main bed wall beside the TV.
