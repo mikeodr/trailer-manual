@@ -15,4 +15,9 @@ The propane stove in the trailer is not maintained and not recommended for use. 
 
 If you need more counter space inside the trailer, the sink can be cleared and a insert can be placed on top. It is stored in the outside kitchen.
 
+## Dishes
+
+- Soap located under the sink
+- Drying rack usually left in sink
+
 [Back to Home](index.md)
