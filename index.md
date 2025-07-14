@@ -1,12 +1,16 @@
-# Trailer Manual
+# About
 
-Welcome to your new GitHub Pages site!
+- [584 Bruce St, Port Elgin, ON N0H 2C1](https://maps.app.goo.gl/11QiyRu9pgJoCmit9)
+- [Trailer Number 207](location.md)
 
-This project uses Markdown and Jekyll for easy publishing.
+## Trailer Manual
 
-## Getting Started
+- [Opening Checklist](opening-checklist.md)
+- [Closing Checklist](closing-checklist.md)
+- [Cooking](cooking.md)
+- [Amenities](amenities.md)
 
-1. Edit `index.md` to update your homepage content.
-2. Commit and push changes to your repository.
-3. Enable GitHub Pages in your repository settings (set the source to the `main` branch or `/docs` folder, as preferred).
+## Emergency
 
+- Saugeen Shores Non-Emergency Police: 519-832-2500
+- Saugeen Memorial Hospital, Southampton, 340 High St, Southampton, ON N0H 2L0 [Map](https://maps.app.goo.gl/vGW3CYvuEYXRPaBE9)
