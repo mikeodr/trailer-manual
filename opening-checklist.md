@@ -4,7 +4,7 @@ This page provides step-by-step instructions for opening and setting up the trai
 
 1. Unlock the main door using the provided key.
 2. [Turn on the water](images/main-water.jpg)
-    - Open the hose bib tap fully.
+    - Open the hose tap fully.
     - Turn the Y adapter going into the white PVC pipe on by pointing it into the center of the adapter.
     - The other side of the Y adapter is for rising sand off feet or filling buckets etc.
 3. [Turn on trailer propane](images/trailer-propane.jpg)
