@@ -6,7 +6,7 @@ This page provides step-by-step instructions for opening and setting up the trai
 2. [Turn off water heater](images/water-heater-power.jpg)
 3. [Turn off the water](images/main-water.jpg)
     - Close both parts of the Y adapter
-    - Close the hose bit tap completely
+    - Close the hose tap completely
     - Open a tap inside the trailer to relieve any pressure
     in the lines, once water empties, close the tap again.
 4. [Turn off trailer propane](images/trailer-propane.jpg)
